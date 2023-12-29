@@ -4,6 +4,8 @@
       "jsx": "react",
       "paths": {
         "@pages/*": ["pages/*"],
+        "@common/*": ["common/*"],
+        "@components/*": ["components/*"]
       }
     }
   }
